@@ -1,22 +1,24 @@
 🔧 Tech Stack:
-Python (Flask)
 
-HTML5 / CSS3
+         Python (Flask)
 
-SQLite (via SQLAlchemy)
+         HTML5 / CSS3
 
-Bootstrap (optional, for better styling)
+         SQLite (via SQLAlchemy)
+
+         Bootstrap (optional, for better styling)
 
 --------------------------------------------------------------------
 
  Features:
-Add your own favorite movies
+ 
+        Add your own favorite movies
 
-Edit or delete movie entries
+        Edit or delete movie entries
 
-Sort by rating (if you want to go fancy)
+        Sort by rating (if you want to go fancy)
 
-Simple & aesthetic interface
+        Simple & aesthetic interface
 
 --------------------------------------------------------------------
 

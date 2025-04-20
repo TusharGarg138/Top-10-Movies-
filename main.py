@@ -37,3 +37,8 @@ class Movie(db.Model):
 
 with app.app_context():
     db.create_all()
+
+class FindMovieForm(FlaskForm):
+    title = StringField("Movie Title", validators=[DataRequired()])
+    submit = SubmitField("Add Movie")
+

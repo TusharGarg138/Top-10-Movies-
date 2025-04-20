@@ -1,0 +1,8 @@
+import requests
+import json
+
+API_KEY = "80a6c07f13b35d3a15993b9807180d7c"
+
+response = requests.get("https://api.themoviedb.org/3/movie/popular?")
+print(response.json())
+print(response.status_code)
